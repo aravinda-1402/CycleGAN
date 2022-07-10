@@ -1,7 +1,7 @@
 # CycleGAN
 Using CycleGAN to convert Monet paintings to Photos and vice versa
 
-<img src="video.gif" width="410"/> <img src="image.png" width="800"/><br>
+<img src="video.gif" width="410"/> <img src="image.png" width="1000"/><br>
 <br>
 
 
