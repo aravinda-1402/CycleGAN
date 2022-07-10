@@ -1,5 +1,7 @@
 
 """
+Aravinda Raman J
+
 cycleGAN model
 
 Based on the code by Jason Brownlee from his blogs on https://machinelearningmastery.com/
