@@ -10,7 +10,7 @@ class InstanceNormalization(Layer):
     i.e. applies a transformation that maintains the mean activation
     close to 0 and the activation standard deviation close to 1.
 
-    # Arguments
+    # Arguments:
         axis: Integer, the axis that should be normalized
             (typically the features axis).
             For instance, after a `Conv2D` layer with
