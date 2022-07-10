@@ -1,5 +1,5 @@
 # CycleGAN
-Using CycleGAN to convert monet to photo and vice versa
+Using CycleGAN to convert Monet paintings to Photos and vice versa
 
 Based on the code by Jason Brownlee from his blogs on https://machinelearningmastery.com/
 I am adapting his code to various applications but original credit goes to Jason. 
