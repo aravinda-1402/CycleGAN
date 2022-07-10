@@ -1,4 +1,4 @@
-
+# Author: Aravinda Raman J (aravindaraman04@gmail.com)
 # monet2photo
 from os import listdir
 from numpy import asarray
