@@ -1,6 +1,6 @@
 
 """
-Aravinda Raman J
+# Author: Aravinda Raman J (aravindaraman04@gmail.com)
  
 Cycle GAN: Monet2Photo
 
