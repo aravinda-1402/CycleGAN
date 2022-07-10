@@ -1,5 +1,7 @@
 
 """
+Aravinda Raman J
+ 
 Cycle GAN: Monet2Photo
 
 Dataset from https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/
