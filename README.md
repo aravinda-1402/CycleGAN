@@ -12,4 +12,4 @@ Using CycleGAN to convert Monet paintings to Photos and vice versa<br>
 # Zombify 
 
 Trained CycleGAN to convert a human image to a zombie image.
- <img src="zombify elon.png" width="1000"/><br>
+ <img src="zombify elon.jpg" width="1000"/><br>
